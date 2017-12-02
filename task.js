@@ -1,0 +1,2 @@
+// Treść zadania:
+// asdasdasdasd
